@@ -1,6 +1,6 @@
 def datos_valentina():
     print("Mi nombre es Valentina Vargas, tengo 22 años")
-# Menú base del programa
+#Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
     print("1. Función de integrante 1")
