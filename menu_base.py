@@ -1,8 +1,11 @@
+ rama-valentina
+
+def datos_valentina():
+    print("Mi nombre es Valentina Vargas, tengo 22 años")
 
 def datos_angelo():
     print("Mi nombre es Angelo ponce, tengo 29 años")
-def datos_valentina():
-    print("Mi nombre es Valentina Vargas, tengo 22 años")
+    main
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
