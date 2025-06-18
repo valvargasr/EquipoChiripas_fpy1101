@@ -1,5 +1,11 @@
+ rama-valentina
+
+def datos_valentina():
+    print("Mi nombre es Valentina Vargas, tengo 22 años")
+
 def datos_angelo():
     print("Mi nombre es Angelo ponce, tengo 29 años")
+    main
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
@@ -12,7 +18,7 @@ while True:
         print("Programa finalizado.")
         break
     elif op == "1":
-        pass # Aquí se llamará a la función del integrante 1
+        datos_valentina()
     elif op == "2":
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
